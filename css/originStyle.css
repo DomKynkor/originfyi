@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document 
+	http://www.colourlovers.com/palette/919313/Papua_New_Guinea
+	Brown:5E412F
+	Cream:FCEBB6
+	Turqouise:78C0A8
+	Orange:F07818
+	Gold:F0A830
+*/
+
+#loginImage
+{
+	position: absolute;
+	right:10px;
+	top: 10px;
+	/*float:right;*/
+	opacity:.5;
+}
+#loginImage:hover
+{
+	opacity:1;
+}
+body
+{
+	text-align:center;
+	background-color:#FCEBB6;
+	color:white;
+	
+}
+footer
+{
+	padding-top:30%;
+}
+h5
+{
+	color:red;
+	
+}
+form
+{
+	margin:10px;
+	padding:10px;
+	
+}
+.text_form
+{
+	margin-left:10px;
+}
+sub
+{
+	font-size:xx-small;	
+}
+header{
+	background-color:#5E412F;
+}
